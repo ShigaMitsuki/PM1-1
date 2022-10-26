@@ -7,7 +7,9 @@ int main()
 {
     std::cout << "Hello!\n";
 
-    std::cout << "New!\n";
+    std::cout << "New branch changed\n";
+
+    std::cout << "Third Branch\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
